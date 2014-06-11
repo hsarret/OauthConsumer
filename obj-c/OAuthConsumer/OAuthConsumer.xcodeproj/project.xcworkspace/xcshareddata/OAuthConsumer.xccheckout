@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>E1E7E9D7-5CAB-4B5E-A8DC-01C725C916D4</string>
+	<key>IDESourceControlProjectName</key>
+	<string>OAuthConsumer</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>76CD6503-9E5B-44F6-8FA4-18B7BD08618F</key>
+		<string>http://oauth.googlecode.com/svn/code</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>obj-c/OAuthConsumer/OAuthConsumer.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>76CD6503-9E5B-44F6-8FA4-18B7BD08618F</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectRepositoryRootDictionary</key>
+	<dict>
+		<key>76CD6503-9E5B-44F6-8FA4-18B7BD08618F</key>
+		<string>http://oauth.googlecode.com/svn</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://oauth.googlecode.com/svn/code/obj-c/OAuthConsumer/OAuthConsumer.xcodeproj</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>76CD6503-9E5B-44F6-8FA4-18B7BD08618F</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryBranchesRelativeLocationKey</key>
+			<string>code/branches</string>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>76CD6503-9E5B-44F6-8FA4-18B7BD08618F</string>
+			<key>IDESourceControlWCCName</key>
+			<string>oauth-read-only</string>
+		</dict>
+	</array>
+</dict>
+</plist>
