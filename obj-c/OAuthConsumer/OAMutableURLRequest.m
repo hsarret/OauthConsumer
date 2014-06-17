@@ -26,7 +26,6 @@
 
 #import "OAMutableURLRequest.h"
 
-
 @interface OAMutableURLRequest (Private)
 - (void)_generateTimestamp;
 - (void)_generateNonce;
@@ -183,7 +182,7 @@ signatureProvider:(id<OASignatureProviding, NSObject>)aProvider
 
 - (void)_generateTimestamp 
 {
-    timestamp = [[NSString stringWithFormat:@"%d", time(NULL)] retain];
+    timestamp = [[NSString stringWithFormat:@"%zd", time(NULL)] retain];
 }
 
 - (void)_generateNonce 
